@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2911512456
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui_assetbundle.maincanvas
+      Dependencies: {}
